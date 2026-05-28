@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета для светлой темы -->
+    <color name="primary">#E91E63</color>
+    <color name="primary_variant">#C2185B</color>
+    <color name="secondary">#FF9800</color>
+    <color name="secondary_variant">#F57C00</color>
+    
+    <!-- Цвета для темной темы -->
+    <color name="primary_dark">#FF4081</color>
+    <color name="primary_variant_dark">#F50057</color>
+    <color name="secondary_dark">#FFAB40</color>
+    <color name="secondary_variant_dark">#FF9100</color>
+    
+    <!-- Цвет звезд рейтинга -->
+    <color name="rating_star_color">#FFC107</color>
+    
+    <!-- Фон для постера по умолчанию -->
+    <color name="poster_placeholder_bg">#E0E0E0</color>
+    <color name="poster_placeholder_bg_dark">#424242</color>
+</resources>
