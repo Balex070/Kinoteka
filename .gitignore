@@ -1,0 +1,56 @@
+```
+# Compiled and build artifacts
+*.class
+*.dex
+*.so
+*.aar
+*.apk
+*.jar
+
+# Dependencies
+node_modules/
+.libs/
+
+# Build outputs
+build/
+.externalNativeBuild/
+.cxx/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+*.iml
+*.hprof
+*.lock
+*.bak
+local.properties
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Coverage
+coverage/
+*.gcov
+*.lcov
+*.profdata
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Testing
+test-reports/
+```
