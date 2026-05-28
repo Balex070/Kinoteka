@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кинотека</string>
+    <string name="search_hint">Поиск фильма...</string>
+    <string name="theme_toggle">Переключить тему</string>
+    <string name="add_movie">Добавить фильм</string>
+    <string name="add_movie_title">Добавить фильм</string>
+    <string name="close">Закрыть</string>
+    <string name="select_poster">Выбрать постер</string>
+    <string name="title_hint">Название</string>
+    <string name="year_hint">Год</string>
+    <string name="description_hint">Описание</string>
+    <string name="genre_hint">Жанр</string>
+    <string name="rating_label">Оценка (1–10)</string>
+    <string name="save_button">Сохранить</string>
+    <string name="poster_description">Постер фильма</string>
+    <string name="more_options">Ещё</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    
+    <!-- Жанры -->
+    <string-array name="genres_array">
+        <item>Все</item>
+        <item>Комедии</item>
+        <item>Мультфильмы</item>
+        <item>Ужасы</item>
+        <item>Фантастика</item>
+        <item>Триллеры</item>
+        <item>Боевики</item>
+        <item>Мелодрамы</item>
+        <item>Детективы</item>
+        <item>Фэнтези</item>
+        <item>Аниме</item>
+        <item>Документальные</item>
+        <item>Детские</item>
+        <item>Биографии</item>
+        <item>На реальных событиях</item>
+        <item>Ток-шоу</item>
+    </string-array>
+</resources>
